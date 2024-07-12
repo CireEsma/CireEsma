@@ -2,4 +2,30 @@
 
 ![Banner.](/img/banner.png "Banner")
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,docker,express,figma,git,github,gmail,linux,lua,linkedin,md,mysql,netlify,nextjs,nodejs,npm,ps,postman,react,sass,stackoverflow,tailwind,ts,ubuntu,vite,vscode,apple)
+### Languages and technologies
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,lua,md)
+
+### Frameworks and libraries
+
+![My Skills](https://skillicons.dev/icons?i=express,nextjs,react,nodejs,bootstrap,tailwind)
+
+### Development and collaboration tools
+
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,docker,vite)
+
+### Design
+
+![My Skills](https://skillicons.dev/icons?i=figma,ps)
+
+### Operating systems
+
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,apple)
+
+### Hosting and deployment
+
+![My Skills](https://skillicons.dev/icons?i=netlify,docker)
+
+### Database
+
+![My Skills](https://skillicons.dev/icons?i=mysql)
