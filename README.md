@@ -2,4 +2,4 @@
 
 ![Banner.](/img/banner.png "Banner")
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,java,kotlin,dart,flutter,html,css,sass,tailwind)
+![My Skills](https://skillicons.dev/icons?i=vue,java,dart,flutter,html,css,sass,js,ts,tailwind)
